@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAG7.Tests", "MAG7.Tests\MAG7.Tests.csproj", "{23BABC5C-9405-4472-8F43-D8E15B13328E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAG7.TradingSystem", "MAG7.TradingSystem\MAG7.TradingSystem.csproj", "{5C850296-5858-22CC-8A67-E3F6E86EF8C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23BABC5C-9405-4472-8F43-D8E15B13328E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BABC5C-9405-4472-8F43-D8E15B13328E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BABC5C-9405-4472-8F43-D8E15B13328E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BABC5C-9405-4472-8F43-D8E15B13328E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C850296-5858-22CC-8A67-E3F6E86EF8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C850296-5858-22CC-8A67-E3F6E86EF8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C850296-5858-22CC-8A67-E3F6E86EF8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C850296-5858-22CC-8A67-E3F6E86EF8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96DD1C21-B315-45B0-8751-BC7F3EAE6582}
+	EndGlobalSection
+EndGlobal
